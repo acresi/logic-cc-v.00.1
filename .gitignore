@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python tooling
+__pycache__/
+*.pyc
+.env
+
+# Node/JS future-proofing
+node_modules/
+dist/
+
+# Generated files
+*.pdf
+*.png
+*.jpg
+exports/
+logs/
+
+# IDE folders
+.vscode/
+.idea/
+
